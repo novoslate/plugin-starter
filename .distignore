@@ -1,0 +1,10 @@
+.git
+.github
+.gitignore
+.distignore
+build
+README.md
+TEMPLATE.md
+init.sh
+*.zip
+.DS_Store
